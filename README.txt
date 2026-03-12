@@ -1,1 +1,0 @@
-Projemizin amacı python dili ve gerekli kütüphanelerle bir speech recognition uygulaması olasılık analizi ile temsili olarak nasıl çalışır onu göstermektir.
