@@ -1,0 +1,1 @@
+Bu projede matrisler, özdeğer ve özvektör kavramlarının birbirleriyle ve machine learning ile olan ilişkisini inceledik.
